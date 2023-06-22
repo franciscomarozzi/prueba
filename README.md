@@ -1,2 +1,2 @@
 # prueba
-este es un respo de prueba
+este es un repo de prueba
